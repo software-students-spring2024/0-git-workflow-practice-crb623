@@ -8,3 +8,7 @@ No article has been posted yet but im sure it is interesting!
 Comment from Zhongqian Chen:
 
 A.I. is a powerful technology that has risen in both capability and popularity during these past few years, and in my opinion it is definitely necessary to make up laws and regulations for it and any fields of technology that has relation to it, in order to prevent unexpected outcomes from the loopholes of the rules.
+
+Comment from Corina Luca:
+
+What I find particularly intriguing is how this inquiry aims to understand the deeper implications of these investments on the competitive landscape and potential legal violations, marking a new frontier in antitrust regulation.
