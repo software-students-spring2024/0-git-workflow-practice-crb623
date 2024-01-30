@@ -9,3 +9,7 @@ No article has been posted yet but im sure it is interesting!
 Comment from Zhongqian Chen:
 
 A.I. is a powerful technology that has risen in both capability and popularity during these past few years, and in my opinion it is definitely necessary to make up laws and regulations for it and any fields of technology that has relation to it, in order to prevent unexpected outcomes from the loopholes of the rules.
+
+Comment from Isaac Kwon:
+
+A.I. has certainly been at the forefront of many discussions. The amount of money that has entered the space as pointed out by the article is simply mind boggling. With even people who have grown up with technology, the capabilities of A.I can seem like something we would see in 2100. I am hopeful that rules and regulations are put in place to tamper the more harmful aspects of A.I., but I am not entirely confident that negative externalities will be adequately addressed.
