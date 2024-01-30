@@ -13,3 +13,9 @@ A.I. is a powerful technology that has risen in both capability and popularity d
 Comment from Isaac Kwon:
 
 A.I. has certainly been at the forefront of many discussions. The amount of money that has entered the space as pointed out by the article is simply mind boggling. With even people who have grown up with technology, the capabilities of A.I can seem like something we would see in 2100. I am hopeful that rules and regulations are put in place to tamper the more harmful aspects of A.I., but I am not entirely confident that negative externalities will be adequately addressed.
+
+Comment from Denzel Prudent:
+
+The drama and discussions about the current events in AI technology leaves a lot to wonder what will happen next. I am ultimately hopeful that whatever follows will ultimately lead to the betterment of A.I. tech.
+
+
