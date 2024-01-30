@@ -4,3 +4,7 @@
 This article is interesting because it discusses The F.T.C. and the Justice Department's attempt to regulate tech giants with antitrust laws. Regulatory bodies are specifically scrutinizing Microsoft, Amazon, and Google for their investments in the A.I. start-ups OpenAI and Anthropic. I find it weird that regulatory bodies have chosen this route instead of directly regulating A.I. start-ups. From my understanding, law and policy is an incredibly traditional field. However, as the capabilities of artificial intelligence grow, issues such as data management must be regulated at the source, as opposed to regulating second-level interactions.
 
 No article has been posted yet but im sure it is interesting!
+
+Comment from Zhongqian Chen:
+
+A.I. is a powerful technology that has risen in both capability and popularity during these past few years, and in my opinion it is definitely necessary to make up laws and regulations for it and any fields of technology that has relation to it, in order to prevent unexpected outcomes from the loopholes of the rules.
