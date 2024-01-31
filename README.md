@@ -13,3 +13,6 @@ A.I. is a powerful technology that has risen in both capability and popularity d
 Comment from Isaac Kwon:
 
 A.I. has certainly been at the forefront of many discussions. The amount of money that has entered the space as pointed out by the article is simply mind boggling. With even people who have grown up with technology, the capabilities of A.I can seem like something we would see in 2100. I am hopeful that rules and regulations are put in place to tamper the more harmful aspects of A.I., but I am not entirely confident that negative externalities will be adequately addressed.
+
+Comment from Wei Luo:
+Software engineering, as an industry, is not just limited to coding and computer science creativity. Legal issues and documentations are also required to be considered for a technology business to succeed.As a society's techbology, like AI, advances, the legal system will have to evolves to regulate it from losing control and becoming tool of injustice and immortality.
